@@ -1,4 +1,4 @@
-# todo
+# Todo
 Todo web app built using Django, Python framework
 A simple ToDo App with CRUD functionalities built using the web-framework of Python, Django.
 
